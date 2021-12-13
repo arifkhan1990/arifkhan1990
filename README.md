@@ -3,7 +3,7 @@
   <p dir="auto">Hi, I'm <a href="https://arifkhan1990.github.io/Portfolio-Design/" rel="nofollow">Arif Khan</a>, a passionate self-taught full stack web developer and a  software engineer from Bangladesh. I have 3 years of professional full-stack developer experience.Basically, I working backend development with laravel.</p>
   <p dir="auto"><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>My GitHub stats & Language's Summary</p>
   <span align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=arifkhan1990&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api?username=arifkhan1990&show_icons=true&theme=radical" style="max-width: 100%;"></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=arifkhan1990&show_icons=true&theme=radical" style="max-width: 80%;"></a>
 </span>
   <span style=""> </span>
   <span  align="right"  dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=arifkhan1990&layout=compact">
