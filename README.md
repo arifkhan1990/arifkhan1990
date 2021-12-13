@@ -3,11 +3,11 @@
   <p dir="auto">Hi, I'm <a href="https://arifkhan1990.github.io/Portfolio-Design/" rel="nofollow">Arif Khan</a>, a passionate self-taught full stack web developer and a  software engineer from Bangladesh. I have 3 years of professional full-stack developer experience.Basically, I working backend development with laravel.</p>
   <p dir="auto"><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>My GitHub stats & Language's Summary</p>
   <span align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=arifkhan1990&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api?username=arifkhan1990&show_icons=true&theme=radical" style="max-width: 60%;"></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=arifkhan1990&show_icons=true&theme=radical" style="max-width: auto;"></a>
 </span>
   <span style=""> </span>
   <span  align="right"  dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=arifkhan1990&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifkhan1990&layout=compact" style="max-width: 40%;margin-left:80px"></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifkhan1990&layout=compact" style="max-width: auto;margin-left:80px"></a>
 </span>
 <p dir="auto" front-size="14px"><strong>Languages and tools:</strong></p>
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
