@@ -43,7 +43,4 @@
 <p align="center" dir="auto">
 
 </p>
-<br><br>
-
-
 </article>
